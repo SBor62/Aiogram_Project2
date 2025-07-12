@@ -8,7 +8,7 @@ from gtts import gTTS
 from deep_translator import GoogleTranslator
 
 # Настройки бота
-API_TOKEN = '7781870968:AAFNkoMBhjAEitX_Dgqv5MwEKlD1RbtDLs4'
+API_TOKEN = 'BOT TOKEN'
 IMG_FOLDER = 'img'
 AUDIO_FOLDER = 'audio'
 
