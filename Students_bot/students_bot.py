@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Инициализация бота
 bot = Bot(
-    token="7949255195:AAFrfEYQVe2oCHpO5mxgvLYjBqEwqZZdWT4",  # Замените на реальный токен
+    token="ВАШ ТОКЕН",  # Замените на реальный токен
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 
