@@ -9,3 +9,4 @@ __pycache__/
 .idea/
 .vscode/
 config.py
+config2.py
